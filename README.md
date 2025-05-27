@@ -11,7 +11,7 @@ This project exists to better understand Joe’s story, highlight recurring them
 ## 📁 Repo Contents
 
 - **`transcripts/`** – Text from Joe’s TikTok videos, organized and searchable
-- **`audio-notes/`** – Casual voice entries reflecting on his content (not a formal podcast)
+- **`audio-notes/`** – Casual voice entries reflecting on his content
 - **`insights/`** – Thematic breakdowns, ideas, and commentary
 - **`mindmap/`** – Visual overviews connecting recurring patterns and ideas
 - **`JoeGPT/`** – (Coming soon) A searchable, conversational AI model built from Joe’s words
